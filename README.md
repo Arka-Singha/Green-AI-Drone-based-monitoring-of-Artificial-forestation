@@ -1,0 +1,1 @@
+# Green-AI-Drone-based-monitoring-of-Artificial-forestation
