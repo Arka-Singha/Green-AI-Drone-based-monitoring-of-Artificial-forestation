@@ -207,3 +207,18 @@ This project contributes toward sustainable AI and afforestation monitoring by c
 
 **Arka Singha**  
 KTJ ID: 25KTJARK358809  
+
+---
+
+## 🏆 Achievement
+
+This project was recognized at **Kshitij 2025, IIT Kharagpur**, where it secured:
+
+- 🥉 **3rd Position** in the **Green AI** event  
+- Awarded a **Certificate of Merit** for innovation in drone-based afforestation monitoring  
+
+This achievement highlights the impact and potential of the proposed AI-driven framework in sustainable environmental applications.
+
+---
+<img width="1102" height="619" alt="image" src="https://github.com/user-attachments/assets/3162cf3b-c09c-4d1a-8714-8345c09f470d" />
+
