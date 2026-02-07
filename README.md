@@ -203,13 +203,6 @@ This project contributes toward sustainable AI and afforestation monitoring by c
 
 ---
 
-## 📩 Contact
-
-**Arka Singha**  
-KTJ ID: 25KTJARK358809  
-
----
-
 ## 🏆 Achievement
 
 This project was recognized at **Kshitij 2025, IIT Kharagpur**, where it secured:
